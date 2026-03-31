@@ -53,7 +53,7 @@
 %other packages for formatting
 \RequirePackage{color}
 \RequirePackage{graphicx}
-\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[dvipsnames]{xcolor}
 \usepackage[scale=0.9]{geometry}
 
 %tabularx environment
@@ -82,14 +82,13 @@
 \titlespacing{\section}{0pt}{10pt}{10pt}
 
 %for publications
-\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+%\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
 
 %Setup hyperref package, and colours for links
 \usepackage[unicode, draft=false]{hyperref}
 \definecolor{linkcolour}{rgb}{0,0.2,0.6}
 \hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
-\addbibresource{citations.bib}
-\setlength\bibitemsep{1em}
+%\setlength\bibitemsep{1em}
 
 %for social icons
 \usepackage{fontawesome5}
@@ -142,12 +141,12 @@
 % \end{tabularx}
 
 \begin{tabularx}{\linewidth}{@{} C @{}}
-\Huge{Your Name} \\[7.5pt]
-\href{https://github.com/username}{\raisebox{-0.05\height}\faGithub\ username} \ $|$ \ 
-\href{https://linkedin.com/in/username}{\raisebox{-0.05\height}\faLinkedin\ username} \ $|$ \ 
-\href{https://mysite.com}{\raisebox{-0.05\height}\faGlobe \ mysite.com} \ $|$ \ 
-\href{mailto:email@mysite.com}{\raisebox{-0.05\height}\faEnvelope \ email@mysite.com} \ $|$ \ 
-\href{tel:+000000000000}{\raisebox{-0.05\height}\faMobile \ +00.00.000.000} \\
+\Huge{Ly Duc Tu} \\[7.5pt]
+\href{https://github.com/tudzct}{\raisebox{-0.05\height}\faGithub\ tudzct} \ $|$ \ 
+\href{https://linkedin.com/in/tudzct}{\raisebox{-0.05\height}\faLinkedin\ tudzct} \ $|$ \ 
+\href{https://tudzct.github.io/my-resume/}{\raisebox{-0.05\height}\faGlobe \ my-resume} \ $|$ \ 
+\href{mailto:direct.ldt@gmail.com}{\raisebox{-0.05\height}\faEnvelope \ direct.ldt@gmail.com} \ $|$ \ 
+\href{tel:+84912504232}{\raisebox{-0.05\height}\faMobile \ 0912 504 232} \\
 \end{tabularx}
 
 %----------------------------------------------------------------------------------------
@@ -155,63 +154,81 @@
 %----------------------------------------------------------------------------------------
 
 %Interests/ Keywords/ Summary
-\section{Summary}
-This CV can also be automatically compiled and published using GitHub Actions. For details, \href{https://github.com/jitinnair1/autoCV}{click here}.
+\section{Career Objective}
+% Business Analyst intern candidate with hands-on project experience and a strong willingness 
+% to learn. Adaptable, able to work under pressure and expect to improve technical skills
+% after participating in real-world projects, focusing on requirement engineering, 
+% documentation and communication.
+\textbf{Short-term:} To obtain a Business Analyst intern position where my hands-on project experience, strong willingness to learn and requirement analysis skills can be effectively utilized and further developed through real-world projects. \\
+\textbf{Long-term:} To become an experienced Business Analyst, and a Product Manager afterwards with a view to leading cross-functional teams, shaping product vision as well as bridging customers needs with business goals.
 
 %Experience
-\section{Work Experience}
-
-\begin{jobshort}{Designation}{Jan 2021 - present}
-long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width
-\end{jobshort}
-
-
-\begin{joblong}{Designation}{Mar 2019 - Jan 2021}
-\item long long line of blah blah that will wrap when the table fills the column width
-\item again, long long line of blah blah that will wrap when the table fills the column width but this time even more long long line of blah blah. again, long long line of blah blah that will wrap when the table fills the column width but this time even more long long line of blah blah
-\end{joblong}
-  
-%Projects
-\section{Projects}
-
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\textbf{Some Project} & \hfill \href{https://some-link.com}{Link to Demo} \\[3.75pt]
-\multicolumn{2}{@{}X@{}}{long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width}  \\
-\end{tabularx}
+%\section{Work Experience}
+%
+%\begin{jobshort}{Designation}{Jan 2021 - present}
+%long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width long long line of blah blah that will wrap when the table fills the column width
+%\end{jobshort}
+%
+%
+%\begin{joblong}{Designation}{Mar 2019 - Jan 2021}
+%\item long long line of blah blah that will wrap when the table fills the column width
+%\item again, long long line of blah blah that will wrap when the table fills the column width but this time even more long long line of blah blah. again, long long line of blah blah that will wrap when the table fills the column width but this time even more long long line of blah blah
+%\end{joblong}
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION
 %----------------------------------------------------------------------------------------
 \section{Education}
 \begin{tabularx}{\linewidth}{@{}l X@{}}	
-2030 - present & PhD (Subject) at \textbf{University} \hfill \normalsize (GPA: 4.0/4.0) \\
-
-2023 - 2027 & Bachelor's Degree at \textbf{College} \hfill (GPA: 4.0/4.0) \\ 
-
-2022 & Class 12th Some Board \hfill  (Grades) \\
-
-2021 & Class 10th Some Board \hfill  (Grades) \\
+\textbf{University of Engineering and Technology - VNU (UET)} & \hfill \normalsize{Sep 2023 -- Jun 2027} \\
+Bachelor of Software Engineering & \hfill \normalsize{(Expected)} \\
+GPA: 3.2 / 4.0 \\
+\end{tabularx}
+  
+%Projects
+\section{Projects}
+\begin{tabularx}{\linewidth}{@{}X r@{}}
+\textbf{Library Management System} & \normalsize{Nov 2024 -- Dec 2024} \\
+\multicolumn{2}{@{}l@{}}{Role: Full-stack Developer (Team of 3) | \href{https://github.com/tudzct/simpleLib}{Link to project}} \\
 \end{tabularx}
 
-%----------------------------------------------------------------------------------------
-%	PUBLICATIONS
-%----------------------------------------------------------------------------------------
-\section{Publications}
-\begin{refsection}[citations.bib]
-\nocite{*}
-\printbibliography[heading=none]
-\end{refsection}
+\begin{itemize}[leftmargin=*, nosep]
+    \item Analyzed core library workflows including user authentication, administration, and the process of searching, borrowing, and returning books.
+    \item Helped structure functional modules and screen flows for both user-facing and administrative operations.
+    \item Worked with database-backed features and supported the implementation of practical library management processes.
+\end{itemize}
+
+\vspace{6pt}
+
+\begin{tabularx}{\linewidth}{@{}X r@{}}
+\textbf{Exam Registration System} & \normalsize{Nov 2025 -- Dec 2025} \\
+\multicolumn{2}{@{}l@{}}{Role: Full-stack Developer (Team of 3) | \href{https://github.com/quachthanhhung12349/BTLWeb_ExamReg}{Link to project}} \\
+\end{tabularx}
+
+\begin{itemize}[leftmargin=*, nosep]
+    \item Analyzed academic registration workflows involving students, courses, exams, exam rooms, and notifications in a full-stack web system.
+    \item Contributed to defining modules and feature flows across frontend pages and backend components for registration and management operations.
+    \item Supported a system structure that reflects real administrative processes through modular screens, routes, and data handling.
+\end{itemize}
 
 %----------------------------------------------------------------------------------------
 %	SKILLS
 %----------------------------------------------------------------------------------------
 \section{Skills}
-\begin{tabularx}{\linewidth}{@{}l X@{}}
-Some Skills &  \normalsize{This, That, Some of this and that etc.}\\
-Some More Skills  &  \normalsize{Also some more of this, Some more that, And some of this and that etc.}\\  
+\begin{itemize}[leftmargin=*, nosep]
+    \item \textbf{Languages}: Java, C++, SQL, HTML/CSS, JavaScript
+    \item \textbf{Tools}: Git, MySQL
+    \item \textbf{Frameworks}: React.js, Node.js, Spring Boot
+    \item \textbf{Soft Skills}: Adaptability, Problem Solving, Communication, Teamwork
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\section{Certifications}
+\begin{tabularx}{\linewidth}{@{}X r@{}}
+IELTS - 7.0 Overall & \normalsize{Oct 2022} \\
 \end{tabularx}
 
-\vfill
-\center{\footnotesize Last updated: \today}
 
 \end{document}
