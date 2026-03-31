@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.5)  1 APR 2026 02:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.5)  1 APR 2026 03:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,13 +427,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  13742 strings out of 469010
  236183 string characters out of 5454855
- 657800 words of memory out of 5000000
+ 658800 words of memory out of 5000000
  42275 multiletter control sequences out of 15000+600000
  632937 words of font info for 57 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  69i,9n,84p,1222b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/ldt/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 111050 bytes).
+Output written on cv.pdf (1 page, 111302 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
