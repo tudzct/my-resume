@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775030530.68802 "/Users/ldt/BA/resume/my-resume/cv.tex" "cv.pdf" "cv" 1775030530.89421 0
-  "/Users/ldt/BA/resume/my-resume/cv.tex" 1775030530.50046 10265 70f9565916841bd1db51b830d45774d6 ""
+["pdflatex"] 1775048927.57043 "/Users/ldt/BA/resume/my-resume/cv.tex" "cv.pdf" "cv" 1775048927.77949 0
+  "/Users/ldt/BA/resume/my-resume/cv.tex" 1775048927.38672 10245 46018cb2e85ae2043787a68d3d97257b ""
   "/Users/ldt/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1774981392.60299 14040 eb8e08f8f45c70ec387b49995a3d045f ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -92,9 +92,9 @@
   "/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1774973785 80308 b9144e526a5eb326f6f78b7b21cc69e0 ""
   "/usr/local/texlive/2025basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1762345416 2965667 e02d62fbec381712102d349562b768d2 ""
   "/usr/local/texlive/2025basic/texmf.cnf" 1741448314 628 81d1ada0f601fb1ffa62f1323192d946 ""
-  "cv.aux" 1775030530.85634 691 942d0c89645f0d45787d7679142e6e12 "pdflatex"
-  "cv.out" 1775030530.85676 435 2e0bea272b5e5fc5d6f81d65b7696cf7 "pdflatex"
-  "cv.tex" 1775030530.50046 10265 70f9565916841bd1db51b830d45774d6 ""
+  "cv.aux" 1775048927.74062 691 942d0c89645f0d45787d7679142e6e12 "pdflatex"
+  "cv.out" 1775048927.74106 435 2e0bea272b5e5fc5d6f81d65b7696cf7 "pdflatex"
+  "cv.tex" 1775048927.38672 10245 46018cb2e85ae2043787a68d3d97257b ""
   (generated)
   "cv.aux"
   "cv.log"
